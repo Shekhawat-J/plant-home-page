@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+*{
+    /* font-family: Montserrat; */
+    font-family: Allerta;
+
+}
+#navbarMonstera{
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    padding: 2vh 3vh;
+}
+
+#navFirst{
+    flex: 0.1;
+}
+#navMid{
+    display: flex;
+    flex: 0.8;
+    /* margin: auto; */
+    justify-content:center;
+    align-items: center;
+}
+
+#navMid div{
+    margin: 0 8vh;
+}
+
+#navMid div :hover{
+    border-bottom: solid 2px black;
+}
+
+#navEnd{
+    display: flex;
+    flex: 0.2;
+    justify-content: center;
+}
+
+#navEnd div{
+    margin: 0 3vh;
+}
+
+
+
+
+#midWhole{
+    display: flex;
+    flex: 1;
+    width: 100%;
+    height: 90vh;
+
+}
+
+#midWholePart11 div>ul>li{
+    font-family: Abel;
+    font-weight: 500;
+    font-size: 25px;
+}
+#monstera{
+    font-size: 80px;
+    margin-bottom: 0;
+    font-family: Montserrat;
+}
+
+/* discover button CSS */
+#midWholePart121{
+    display:inline-flex;
+    margin-left: 5vh;
+    background-color: #205939;
+    border: 0px solid black;
+    border-radius: 25px;
+    /* text-align: center; */
+    padding: 0 3vh;
+}
+
+#midWholePart121 div>h1{
+    padding: 0 10px;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-family: Abel;
+    font-weight: 100;
+    color: #ffffff;
+    align-items: center;
+}
+
+#midWholePart122{
+    margin: 0 auto;
+    margin: 2vh auto;
+    margin-bottom: 0;
+}
+#midWholePart122 img{
+    text-align: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+}
+
+
+/* footer content CSS */
+#midWholePart13{
+    display: flex;
+    padding-top: 5vh;
+    padding-left: 3vh;
+}
+
+.midWholePart13Parts{
+    display: inline-flex;
+}
+
+.midWholePart13Parts div>img{
+    margin-right: 2vh;
+}
+.midWholePart13Parts div>h4{
+    margin-block-start: 0;
+    margin-block-end: 0;
+
+}
+
+.midWholePart13Parts div>p{
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-size: 12px;
+    font-family: Abel;
+    font-weight: 500;
+}
+
+
+/* flower pot image */
+#imgMain{
+    width: 80vh;
+    height: 90vh;
+}
