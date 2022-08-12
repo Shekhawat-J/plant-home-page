@@ -2,6 +2,6 @@
 
 [GIT URL](https://github.com/Shekhawat-J/plant-home-page)
 
-[LIVE URL]()
+[LIVE URL](https://plant-webpage.netlify.app/)
 
 ![Home page image](./thumbnail.png)
